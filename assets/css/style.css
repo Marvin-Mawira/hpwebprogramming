@@ -1,0 +1,44 @@
+.fruits{
+    border: #00ff2a 2px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: #d50737;
+    text-align: center;
+    color: beige;
+}
+.cars{
+    border: #b519e0 2px solid;
+    padding: px;
+    margin: 20px;
+    background-color: chartreuse;
+    text-align: center;
+    color: #78f6f6;
+}
+.FRUITS{
+    border: #dece1b 2px solid;
+    padding: px;
+    margin: 20px;
+    background-color: #ce39de;
+    text-align: center;
+    color: #14cb8a;
+}
+.Fruits{
+    border: #76e80c 2px solid;
+    padding: px;
+    margin: 20px;
+    background-color: #933b33;
+    text-align: center;
+    color: #78f6f6;
+}
+/*img{*/
+/*    width: 20%;*/
+/*}*/
+#school{
+    border: #ece170 2px solid;
+    padding: px;
+    margin: 20px;
+    background-color: chartreuse;
+    text-align: center;
+    color: #78f6f6;
+
+}

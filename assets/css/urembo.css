@@ -1,0 +1,28 @@
+table{
+    width: 100%;
+}
+th,td{
+    border: 2px solid cornflowerblue;
+    padding: 14px;
+    margin: 8px;
+}
+thead{
+    font-family: "Book Antiqua";
+    font-size: 20px;
+    color: red;
+
+
+}
+body{
+    background-color: cyan;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+}
+img{
+    display: block;
+    width: 20%;
+    margin: auto;
+}
